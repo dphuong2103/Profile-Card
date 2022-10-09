@@ -145,10 +145,9 @@ body::before {
   box-shadow: 0 4px 1rem rgba(19, 127, 212, 0.7);
   background: linear-gradient(120deg, #0088cc, #ffffff);
 }
-.profile-card__social a.zalo,
-.profile-card__social img.zalo {
-  height: 100%;
-  box-shadow: 0 4px 50px -20px rgba(19, 127, 212, 0.7);
+.profile-card__social a.zalo img,
+.profile-card__social img.zalo img {
+  box-shadow: 0 4px 1rem rgba(19, 127, 212, 0.7);
 }
 .profile-card__contact {
   width: 100%;
