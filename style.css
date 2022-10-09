@@ -164,10 +164,9 @@ body::before {
   border-radius: 30px;
   border: none;
   transition: all 0.5s ease;
-}
-.profile-card__contact > * > a {
   text-decoration: none;
   color: white;
+  text-align: center;
 }
 .profile-card__contact > *:hover {
   cursor: pointer;
